@@ -21,3 +21,6 @@
 "CenterPrintCollectAllTheCoins","Collect [b]all[/b] the coins.","Collectez [b]toutes[/b] les pièces."
 "CenterPrintReachTheGoal","Reach the goal to finish the level.","Allez jusqu'au but pour finir le niveau."
 "YouNeedNCoinsToFinish","Collect [color=#ffff00]%s[/color] coins first.","Collectez [color=#ffff00]%s[/color] pièces d'abord."
+"LevelDescription","Description:","Description :"
+"LevelCoinsTotal","Coins (total):","Pièces (total) :"
+"LevelCoinsRequired","Coins (required):","Pièces (requises) :"
