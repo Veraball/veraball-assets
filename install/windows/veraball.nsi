@@ -68,7 +68,7 @@ Section "Veraball (required)" GameFiles
 
   SetOutPath $INSTDIR
 
-  File /r "..\..\..\veraball-releases\windows\install\*.*"
+  File /r "..\..\..\veraball-releases\windows\Veraball\*.*"
 
   WriteRegStr HKLM "SOFTWARE\Veraball" "Install_Dir" "$INSTDIR"
 
